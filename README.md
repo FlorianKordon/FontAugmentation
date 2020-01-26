@@ -5,6 +5,7 @@
 
 ## Paper
 ![](images/sample.jpg)
+
 _Font Augmentation: Implant and Surgical Tool Simulation for X-Ray Image Processing_
 
 **Florian Kordon**,  Andreas Maier, Benedict Swartman, Holger Kunze
